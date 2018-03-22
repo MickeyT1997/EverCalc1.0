@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="numeralWidth">75dp</dimen>
+    <dimen name="numeralHeight">75dp</dimen>
+    <dimen name="zeroWidth">160dp</dimen>
+    <dimen name="zeroHeight">75dp</dimen>
+</resources>
